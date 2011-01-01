@@ -4,4 +4,5 @@ Diese kleine App (eigentlich "nur" ein AppleScript) läuft als Hintergrundanwend
 
 Siehe auch
 ----------
-* [Blog Post](http://www.code-schubser.de/2010/12/things-todos-aus-evernote-notizen/)
+* [Download (zip)](https://github.com/jeanmartin/Evernote2Things/zipball/master)
+* [Blog Post (german)](http://www.code-schubser.de/2010/12/things-todos-aus-evernote-notizen/)
